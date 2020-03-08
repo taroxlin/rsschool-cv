@@ -18,7 +18,6 @@ Want to learn:
 - [x] JavaScript
 - [x] React
 
-
 ### Code Projects
 * [Portfolio React](https://taroxlin.github.io/portfolio/)
 * [Pong Game](https://github.com/taroxlin/pong)
